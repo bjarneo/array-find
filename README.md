@@ -1,4 +1,6 @@
 # a-find
+![Travis](https://travis-ci.org/bjarneo/array-find.svg?branch=master) <br />
+
 Finding all the occurrences of an element in an array
 
 ###Install
