@@ -1,0 +1,31 @@
+{
+  "name": "a-find",
+  "version": "1.0.0",
+  "description": "Finding all the occurrences of an element in an array",
+  "main": "index.js",
+  "scripts": {
+    "test":  "node_modules/mocha/bin/mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bjarneo/a-find.git"
+  },
+  "keywords": [
+    "array",
+    "indexOf",
+    "index",
+    "find",
+    "occurrences",
+    "every",
+    "element"
+  ],
+  "author": "Bjarne Oeverli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjarneo/a-find/issues"
+  },
+  "homepage": "https://github.com/bjarneo/a-find",
+  "devDependencies": {
+    "mocha": "2.1.0"
+  }
+}
